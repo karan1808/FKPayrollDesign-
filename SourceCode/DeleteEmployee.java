@@ -38,7 +38,7 @@ public class deleteEmployee{
 		}
 		arr.remove(index);
 
-		FileWriter fileWriter = new FileWriter("employeesData.json");  
+		FileWriter fileWriter = new FileWriter("Data.json");  
 		
 		fileWriter.write(arr.toJSONString());  
         
