@@ -32,9 +32,9 @@ public class Main{
             } else if(operationType == 5) {
                 	PostAUnionMembership();
             } else if(operationType == 6) {
-                
+                	ChangeEmployeeDetails();
             } else if(operationType == 7) {
-                
+                	RunPayRoll();
             }
 
 
