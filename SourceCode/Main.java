@@ -25,13 +25,12 @@ public class Main{
                 	AddEmployee();
             } else if(operationType == 2){
             		DeleteEmployee();
-                
             } else if(operationType == 3) {
-                
+                	PostTimeCard();
             } else if(operationType == 4) {
-                
+                	PostSalesReceipt();
             } else if(operationType == 5) {
-                
+                	PostAUnionMembership();
             } else if(operationType == 6) {
                 
             } else if(operationType == 7) {
