@@ -24,6 +24,7 @@ public class Main{
     		if(operationType == 1) {
                 	AddEmployee();
             } else if(operationType == 2){
+            		DeleteEmployee();
                 
             } else if(operationType == 3) {
                 

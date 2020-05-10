@@ -9,7 +9,7 @@ import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
 
-public class deleteEmployee{
+public class DeleteEmployee{
 
 	public static void main(String[] args) throws FileNotFoundException, IOException, ParseException{
 
