@@ -21,6 +21,22 @@ public class Main{
 	int operationInput;
     operationInput = in.nextInt();
 
+    		if(operationType == 1) {
+                	AddEmployee();
+            } else if(operationType == 2){
+                
+            } else if(operationType == 3) {
+                
+            } else if(operationType == 4) {
+                
+            } else if(operationType == 5) {
+                
+            } else if(operationType == 6) {
+                
+            } else if(operationType == 7) {
+                
+            }
+
 
 	}
 }
